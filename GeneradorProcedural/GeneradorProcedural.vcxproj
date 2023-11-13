@@ -140,9 +140,6 @@
     <ClCompile Include="..\OpenGL_Stuff\Library\glad.c" />
     <ClCompile Include="test.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="FastNoiseLite.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
